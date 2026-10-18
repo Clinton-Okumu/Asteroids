@@ -27,3 +27,4 @@ Run with `uv`:
 ```bash
 uv run main.py
 ```
+# Asteroids
